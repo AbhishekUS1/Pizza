@@ -25,8 +25,16 @@ This project showcases a pizza menu where users can:
 - **Order Button**: Available when the restaurant is open.
 
 ## Project Structure
-📦 Fast React Pizza Co. ┣ 📂 public ┃ ┗ 📜 index.html ┣ 📂 src ┃ ┣ 📜 index.js ┃ ┣ 📜 index.css ┃ ┣ 📜 App.js ┃ ┗ 📜 pizzaData.js ┣ 📜 package.json ┗ 📜 README.md
-
+📦 Fast React Pizza Co.
+ ┣ 📂 public
+ ┃ ┗ 📜 index.html
+ ┣ 📂 src
+ ┃ ┣ 📜 index.js
+ ┃ ┣ 📜 index.css
+ ┃ ┣ 📜 App.js
+ ┃ ┗ 📜 pizzaData.js
+ ┣ 📜 package.json
+ ┗ 📜 README.md
 
 ## How to Run
 
