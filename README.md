@@ -56,7 +56,7 @@ The app will now be running locally at http://localhost:3000.
 -  Pizza: Shows pizza image, name, ingredients, and price. If a pizza is sold out, it shows a "Sold Out" badge.
 -  Footer: Displays the open hours and a button to order if the restaurant is currently open.
    
-##Future Enhancements
+## Future Enhancements
 -  Order Summary: Add a cart system to review orders before placing them.
 -  Responsive Design: Improve the app for better mobile experience.
 -  API Integration: Fetch pizza data dynamically from a backend service.
