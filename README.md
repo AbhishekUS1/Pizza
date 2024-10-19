@@ -50,13 +50,13 @@ Make sure you have **Node.js** and **npm** installed on your machine.
 
 The app will now be running locally at http://localhost:3000.
 
-Component Overview
-   Header: Displays the restaurant's name.
-   Menu: Renders the list of available pizzas. Uses the Pizza component for individual pizza details.
-   Pizza: Shows pizza image, name, ingredients, and price. If a pizza is sold out, it shows a "Sold Out" badge.
-   Footer: Displays the open hours and a button to order if the restaurant is currently open.
+## Component Overview
+-  Header: Displays the restaurant's name.
+-  Menu: Renders the list of available pizzas. Uses the Pizza component for individual pizza details.
+-  Pizza: Shows pizza image, name, ingredients, and price. If a pizza is sold out, it shows a "Sold Out" badge.
+-  Footer: Displays the open hours and a button to order if the restaurant is currently open.
    
-Future Enhancements
-   Order Summary: Add a cart system to review orders before placing them.
-   Responsive Design: Improve the app for better mobile experience.
-   API Integration: Fetch pizza data dynamically from a backend service.
+##Future Enhancements
+-  Order Summary: Add a cart system to review orders before placing them.
+-  Responsive Design: Improve the app for better mobile experience.
+-  API Integration: Fetch pizza data dynamically from a backend service.
