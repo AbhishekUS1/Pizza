@@ -24,18 +24,6 @@ This project showcases a pizza menu where users can:
 - **Opening Hours**: The footer dynamically displays if the restaurant is open or closed based on the current time.
 - **Order Button**: Available when the restaurant is open.
 
-## Project Structure
-📦 Fast React Pizza Co.
- ┣ 📂 public
- ┃ ┗ 📜 index.html
- ┣ 📂 src
- ┃ ┣ 📜 index.js
- ┃ ┣ 📜 index.css
- ┃ ┣ 📜 App.js
- ┃ ┗ 📜 pizzaData.js
- ┣ 📜 package.json
- ┗ 📜 README.md
-
 ## How to Run
 
 ### Prerequisites
