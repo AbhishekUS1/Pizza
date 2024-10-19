@@ -35,7 +35,7 @@ Make sure you have **Node.js** and **npm** installed on your machine.
 
   ```bash
    git clone https://github.com/AbhishekUS1/Pizza.git
-
+```
 2. Navigate into the project directory:
  cd fast-react-pizza-co
 
